@@ -33,6 +33,7 @@ namespace WorkerEditor
             Workers.Add(new Manager("Елена", 27, 448666, 19));
             Workers.Add(new Driver("Петя", 45, 789542, "BMW", 256));
             Workers.Add(new Manager("Екатерина", 23, 78985622, 15));
+            Workers.Add(new Driver("Саша", 45, 789542, "BMW", 256));
 
             DataContext = this;
         }
