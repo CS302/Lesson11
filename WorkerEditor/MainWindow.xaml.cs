@@ -69,7 +69,7 @@ namespace WorkerEditor
                 //обнуляем все стековые панельки
                 //Microsoft Expression Blend 4.0
                 //Microsoft Expression Design
-
+                //дописал что-нибудь
                 //git
             }
         }
