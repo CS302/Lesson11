@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\bin\Debug\WorkerEditor.exe.config
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\bin\Debug\WorkerEditor.exe
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\bin\Debug\WorkerEditor.pdb
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\WorkerEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\WorkerEditor_MarkupCompile.cache
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\WorkerEditor.g.resources
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\WorkerEditor.Properties.Resources.resources
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\WorkerEditor.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\WorkerEditor.exe
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\obj\Debug\WorkerEditor.pdb
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\bin\Debug\WorkersLibrary.dll
+C:\Users\Alex\Desktop\WorkersLibrary\WorkerEditor\bin\Debug\WorkersLibrary.pdb
