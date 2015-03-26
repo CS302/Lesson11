@@ -3,3 +3,8 @@ C:\Users\Alex\Desktop\WorkersLibrary\WorkersLibrary\bin\Debug\WorkersLibrary.pdb
 C:\Users\Alex\Desktop\WorkersLibrary\WorkersLibrary\obj\Debug\WorkersLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\WorkersLibrary\WorkersLibrary\obj\Debug\WorkersLibrary.dll
 C:\Users\Alex\Desktop\WorkersLibrary\WorkersLibrary\obj\Debug\WorkersLibrary.pdb
+C:\Users\Alex\Desktop\Lesson11\WorkersLibrary\bin\Debug\WorkersLibrary.dll
+C:\Users\Alex\Desktop\Lesson11\WorkersLibrary\bin\Debug\WorkersLibrary.pdb
+C:\Users\Alex\Desktop\Lesson11\WorkersLibrary\obj\Debug\WorkersLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Lesson11\WorkersLibrary\obj\Debug\WorkersLibrary.dll
+C:\Users\Alex\Desktop\Lesson11\WorkersLibrary\obj\Debug\WorkersLibrary.pdb

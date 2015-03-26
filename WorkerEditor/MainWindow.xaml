@@ -23,36 +23,38 @@
         <StackPanel Name="detailsPanel" Grid.Column="1" Orientation="Vertical">
             <StackPanel Orientation="Horizontal">
                 <TextBlock Width="150" Text="Имя" FontSize="24"/>
-                <TextBlock Width="150" Text="{Binding Name}" FontSize="24"/>
+                <TextBox Name="nameInfo" Width="150" Text="{Binding Name}" FontSize="24"/>
             </StackPanel>
 
             <StackPanel Margin="0 20 0 0" Orientation="Horizontal">
                 <TextBlock Width="150" Text="Возраст" FontSize="24"/>
-                <TextBox Width="150" Text="{Binding Age}" FontSize="24"/>
+                <TextBox Name="ageInfo" Width="150" Text="{Binding Age}" FontSize="24"/>
             </StackPanel>
 
             <StackPanel Margin="0 20 0 0" Orientation="Horizontal">
                 <TextBlock Width="150" Text="ИНН" FontSize="24"/>
-                <TextBox Width="150" Text="{Binding Snn}" FontSize="24"/>
+                <TextBox Name="snnInfo" Width="150" Text="{Binding Snn}" FontSize="24"/>
             </StackPanel>
 
             <StackPanel Name="driverInfo">
                 <StackPanel Margin="0 20 0 0" Orientation="Horizontal">
                     <TextBlock Width="150" Text="Машина" FontSize="24"/>
-                    <TextBox Width="150" Text="{Binding CarType}" FontSize="24"/>
+                    <TextBox Name="carTypeInfo" Width="150" Text="{Binding CarType}" FontSize="24"/>
                 </StackPanel>
 
                 <StackPanel Margin="0 20 0 0" Orientation="Horizontal">
                     <TextBlock Width="150" Text="Часы" FontSize="24"/>
-                    <TextBox Width="150" Text="{Binding Hours}" FontSize="24"/>
+                    <TextBox Name="hoursInfo" Width="150" Text="{Binding Hours}" FontSize="24"/>
                 </StackPanel>
             </StackPanel>
 
             <StackPanel Name="managerInfo" Margin="0 20 0 0" Orientation="Horizontal">
                 <TextBlock Width="150" Text="Проектов" FontSize="24"/>
-                <TextBox Width="150" Text="{Binding ProjectsCount}" FontSize="24"/>
+                <TextBox Name ="projCountInfo" Width="150" Text="{Binding ProjectsCount}" FontSize="24"/>
             </StackPanel>
+            
             <Button Content="Удалить" Click="Button_Click"/>
+            <Button Content="Добавить" Margin="0 20 0 0" Click="Button_Click_Add"/>
         </StackPanel>
 
     </Grid>
